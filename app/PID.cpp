@@ -1,4 +1,4 @@
-#include <PID.h>
+#include <PID.hpp>
 
 PID::PID(double Kp_, double Ki_, double Kd_) {
   Kp = Kp_;
