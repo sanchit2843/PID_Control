@@ -1,4 +1,4 @@
-#include <PID.hpp>
+#include "PID.hpp"
 
 PID::PID(double Kp_, double Ki_, double Kd_) {
   Kp = Kp_;
@@ -6,4 +6,4 @@ PID::PID(double Kp_, double Ki_, double Kd_) {
   Kd = Kd_;
 }
 
-PID::calculate(double target, double present, double) { return 10; }
+double PID::calculate(double target, double present, double dt) { return 10.0; }

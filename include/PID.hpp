@@ -10,5 +10,6 @@ private:
   double integral = 0;
 
 public:
+  PID(double Kp_, double Ki_, double Kd_);
   double calculate(double target, double present, double dt);
 };
