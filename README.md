@@ -20,8 +20,8 @@ The members of the first pair for Part 1 of this repository are :
 
  ## Part 2 
 The members of the first pair for Part 1 of this repository are :
- - Charu Sharma (Driver)
- - Anubhav Paras (Navigator)
+ - Shantanu Parab (Driver)
+ - Bharadwaj Chukkala (Navigator)
  
 ## Description
 The design contains one class, PID. The main function takes the target velocity and present velocity as input and calls the calculate function of the PID class for 100 iterations.
