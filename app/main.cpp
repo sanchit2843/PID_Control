@@ -1,8 +1,14 @@
+/*Copyright 2022 Anukriti Singh, Sanchit Tanwar, 
+ Bharadwaj Chukkala & Shantanu Parab */
+
 #include <algorithm>
 #include <iostream>
 #include "PID.hpp"
 
+
+
 int main() {
+  // To do pair 2 - Done
   PID pid(0.1, 0.1, 0.1);
   double initial_temprature = 5;
   double final_temprature = 10;
