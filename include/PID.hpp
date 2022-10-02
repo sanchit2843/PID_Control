@@ -17,8 +17,8 @@ class PID {
 private:
   double Kp, Ki, Kd;
   double prev_error = 0;
-  const int min_temprature = 0;
-  const int max_temprature = 100;
+  double min_temprature = 0;
+  double max_temprature = 100;
   double integral = 0;
   
    /**

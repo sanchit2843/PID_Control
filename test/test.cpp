@@ -1,9 +1,9 @@
-#include "PID.hpp"
+#include "../include/PID.hpp"
 #include <gtest/gtest.h>
 
 TEST(PID, case1) {
   PID pid(0.1, 0.1, 0.1);
-  EXPECT_EQ(50.55, pid.calculate(5, 0, 0.01));
+  EXPECT_EQ(50.505, pid.calculate(5, 0, 0.01));
   // EXPECT_EQ(0.61, pid.calculate(5, 50.55, 0.01));
 }
 
