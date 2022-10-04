@@ -51,3 +51,13 @@ The activity diagram is as follows :
 ```
 
 ### Steps to run cppcheck and cpplint
+Run cppcheck: Results are stored in `./results/cppcheck_process_part2.txt`, `./results/cppcheck_result_part2.txt` 
+```
+sh run_cppcheck.sh
+```
+
+Run cpplint: Results are stored in `./results/cpplint_result_part2.txt`
+```
+sh run_cpplint.sh
+```
+
