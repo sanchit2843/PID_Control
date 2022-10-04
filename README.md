@@ -34,7 +34,7 @@ The present voltage is updated with the controller output until it reaches withi
 The activity diagram is as follows : 
 
 
-<img alt="Activity" src="assets/Activity.png" width="500" />
+<img alt="Activity" src="assets/TDD activity diagram(1)_pair2.png" width="500" />
 *Fig 2 :  Activity diagram*
 
 ### Steps to build 
