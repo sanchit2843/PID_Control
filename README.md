@@ -28,7 +28,7 @@ The design contains one class, PID. The main function takes the target velocity 
 The present voltage is updated with the controller output until it reaches within a margin of the target voltage. The UML class diagram is as follows : 
 
 
-<img alt="UML" src="assets/uml.png" width="200" />
+<img alt="UML" src="assets/PID Class_pair2.png" width="200" />
 *Fig 1 :  UML class diagram*
 
 The activity diagram is as follows : 
