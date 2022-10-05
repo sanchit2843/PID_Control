@@ -28,7 +28,7 @@ The members of the first pair for Part 1 of this repository are :
  - Bharadwaj Chukkala (Navigator)
  
 ## Description
-The design contains one class, PID. The main function takes the target velocity and present velocity as input and calls the calculate function of the PID class for 100 iterations.
+The design contains one class, PID. The main function takes the target temperature and present temperature as input and calls the calculate function of the PID class for 100 iterations.
 The present voltage is updated with the controller output until it reaches within a margin of the target voltage. The UML class diagram is as follows : 
 
 
