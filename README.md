@@ -1,4 +1,8 @@
-# PID_Control
+[![Build Status](https://app.travis-ci.com/sanchit2843/PID_Control.svg?branch=master)](https://app.travis-ci.com/sanchit2843/PID_Control)
+
+https://app.travis-ci.com/github/sanchit2843/PID_Control
+
+# PID_Control (PAIR 1 REPO)
 
 
 
