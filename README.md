@@ -2,7 +2,7 @@
 
 https://app.travis-ci.com/github/sanchit2843/PID_Control
 
-# PID_Control (PAIR 1 REPO)
+# PID_Control (Team 1 REPO)
 
 
 
